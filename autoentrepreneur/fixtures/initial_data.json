@@ -118,5 +118,46 @@
             "limit2": 34600, 
             "year": 2011
         }
+    }, 
+    {
+        "pk": 13, 
+        "model": "autoentrepreneur.saleslimit", 
+        "fields": {
+            "activity": 1, 
+            "limit": 81500, 
+            "limit2": 89500, 
+            "year": 2012
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "autoentrepreneur.saleslimit", 
+        "fields": {
+            "activity": 2, 
+            "limit": 32600, 
+            "limit2": 34600, 
+            "year": 2012
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "autoentrepreneur.saleslimit", 
+        "fields": {
+            "activity": 3, 
+            "limit": 32600, 
+            "limit2": 34600, 
+            "year": 2012
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "autoentrepreneur.saleslimit", 
+        "fields": {
+            "activity": 4, 
+            "limit": 32600, 
+            "limit2": 34600, 
+            "year": 2012
+        }
     }
+
 ]
